@@ -17,7 +17,7 @@ Common techniques:
 
 ## 📁 Files
 
-- `regularization_demo.ipynb` – Jupyter notebook that:
+- `regularization.ipynb` – Jupyter notebook that:
   - Builds a simple neural network on a synthetic dataset
   - Applies L2 regularization using `kernel_regularizer`
   - Visualizes model performance with and without regularization
